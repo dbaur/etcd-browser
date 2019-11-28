@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 
 MAINTAINER Christoph Wiechert <wio@psitrax.de>
 MAINTAINER https://github.com/henszey
